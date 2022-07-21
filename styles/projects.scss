@@ -1,4 +1,5 @@
+@import "./skills";
+
 .project-card {
-    border-radius: 3px;
-    border: .5px solid #ccc;
+    @extend .skills-list-container;
 }
