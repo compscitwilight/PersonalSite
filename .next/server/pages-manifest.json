@@ -1,0 +1,16 @@
+{
+  "/_error": "pages/_error.js",
+  "/_app": "pages/_app.js",
+  "/404": "pages/404.html",
+  "/api/cities/[city]": "pages/api/cities/[city].js",
+  "/api/cities": "pages/api/cities.js",
+  "/api/countries/[country]": "pages/api/countries/[country].js",
+  "/api/cities/random": "pages/api/cities/random.js",
+  "/api/countries/random": "pages/api/countries/random.js",
+  "/contact": "pages/contact.html",
+  "/image/upload": "pages/image/upload.html",
+  "/": "pages/index.html",
+  "/projects": "pages/projects.html",
+  "/api/countries": "pages/api/countries.js",
+  "/_document": "pages/_document.js"
+}

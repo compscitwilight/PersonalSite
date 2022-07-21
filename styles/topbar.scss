@@ -1,0 +1,20 @@
+.topbar,
+.topbar-container {
+    top: 3%;
+    padding: 14px 16px;
+    text-align: center;
+}
+
+.topbar a,
+.topbar-container a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: x-large;
+    padding: 3px;
+    transition: color .25s ease-out;
+
+    &:hover {
+        color: rgb(115, 199, 164);
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "Portfolio": {
+        "name": "My Portfolio",
+        "description": "The current website you're on right now! This websites showcases my skills, projects, contact info, and information about myself.",
+        "link": "/"
+    },
+    "TypeWizard": {
+        "name": "TypeWizard",
+        "description": "TypeWizard is a typing website inspired by MonkeyType.",
+        "link": "https://typewizardgame.herokuapp.com/"
+    },
+    "RblxButtons": {
+        "name": "RblxButtons",
+        "description": "RblxButtons is a chrome extension that allows you to add custom topbar buttons to the Roblox website.",
+        "link": "https://github.com/devrusty/RblxButtons"
+    },
+    "RobloxNET": {
+        "name": "Roblox.NET",
+        "description": "Roblox.NET is a .NET library that allows you to easily work with the Roblox API.",
+        "link": "https://github.com/devrusty/RobloxNET"
+    },
+    "Yumi": {
+        "name": "Yumi",
+        "description": "Yumi is a Discord bot that contains utility, moderation, and fun commands.",
+        "link": "https://github.com/devrusty/Yumi"
+    },
+    "Roblox2015": {
+        "name": "Roblox2015",
+        "description": "An attempt to recreate the Roblox website using Express.js and EJS.",
+        "link": "https://github.com/devrusty/Roblox2015"
+    }
+}

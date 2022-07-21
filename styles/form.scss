@@ -1,0 +1,7 @@
+.form-field {
+    font-family: sans-serif;
+
+    &:active {
+        border: 2px solid rgb(110, 255, 202);
+    }
+}
