@@ -1,8 +1,6 @@
-import Head from "next/head"
 import ProjectCard from "../components/Projects/ProjectCard"
 import { useState } from "react";
 import ProjectsListData from "../data/projectsList.json";
-import Topbar from "../components/Topbar";
 
 export default function Projects() {
     const [projects, setProjects] = useState(ProjectsListData)
@@ -22,9 +20,6 @@ export default function Projects() {
 
     return (
         <>
-            <Head>
-                <title>devrusty - Projects</title>
-            </Head>
             <div className="content">
                 <h1>Projects</h1>
                 <div className="projects-container">{projectCards}</div>
