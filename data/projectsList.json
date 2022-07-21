@@ -2,31 +2,57 @@
     "Portfolio": {
         "name": "My Portfolio",
         "description": "The current website you're on right now! This websites showcases my skills, projects, contact info, and information about myself.",
-        "link": "/"
+        "link": "/",
+        "technologies": [
+            "JSX",
+            "Node.js",
+            "SCSS"
+        ]
     },
     "TypeWizard": {
         "name": "TypeWizard",
         "description": "TypeWizard is a typing website inspired by MonkeyType.",
-        "link": "https://typewizardgame.herokuapp.com/"
+        "link": "https://typewizardgame.herokuapp.com/",
+        "technologies": [
+            "jQuery",
+            "Express.js"
+        ]
     },
     "RblxButtons": {
         "name": "RblxButtons",
         "description": "RblxButtons is a chrome extension that allows you to add custom topbar buttons to the Roblox website.",
-        "link": "https://github.com/devrusty/RblxButtons"
+        "link": "https://github.com/devrusty/RblxButtons",
+        "technologies": [
+            "Javascript"
+        ]
     },
     "RobloxNET": {
         "name": "Roblox.NET",
         "description": "Roblox.NET is a .NET library that allows you to easily work with the Roblox API.",
-        "link": "https://github.com/devrusty/RobloxNET"
+        "link": "https://github.com/devrusty/RobloxNET",
+        "technologies": [
+            "Roblox API",
+            "C#",
+            ".NET"
+        ]
     },
     "Yumi": {
         "name": "Yumi",
         "description": "Yumi is a Discord bot that contains utility, moderation, and fun commands.",
-        "link": "https://github.com/devrusty/Yumi"
+        "link": "https://github.com/devrusty/Yumi",
+        "technologies": [
+            "Node.js",
+            "Discord.js",
+            "Javascript"
+        ]
     },
     "Roblox2015": {
         "name": "Roblox2015",
         "description": "An attempt to recreate the Roblox website using Express.js and EJS.",
-        "link": "https://github.com/devrusty/Roblox2015"
+        "link": "https://github.com/devrusty/Roblox2015",
+        "technologies": [
+            "Express.js",
+            "EJS"
+        ]
     }
 }
