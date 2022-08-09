@@ -18,6 +18,18 @@
             "Express.js"
         ]
     },
+    "BankingBot": {
+        "name": "BankingBot",
+        "description": "BankingBot is a Discord bot that utilises economy commands using Prisma.js, and PostgreSQL.",
+        "link": "https://discord.gg/Za5j3xvAzf",
+        "technologies": [
+            "Typescript",
+            "Node.js",
+            "Discord.js",
+            "Prisma",
+            "PostgreSQL"
+        ]
+    },
     "RblxButtons": {
         "name": "RblxButtons",
         "description": "RblxButtons is a chrome extension that allows you to add custom topbar buttons to the Roblox website.",
