@@ -6,7 +6,6 @@ export default function Contact() {
         <>
             <div className="content">
                 <Socials />
-                <ContactForm />
             </div>
         </>
     )
