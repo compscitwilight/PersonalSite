@@ -1,7 +1,7 @@
 import Link from "next/link"
 
 export default function Header() {
-    const briefDescription = "I am a young and passionate web developer who mainly uses Javascript and Typescript."
+    const briefDescription = "I am a  web developer who mainly uses Typescript, Node.js, and Next.js."
 
     return (
         <span className="header page-section">
