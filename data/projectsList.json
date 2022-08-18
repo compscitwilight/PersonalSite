@@ -21,7 +21,7 @@
     "BankingBot": {
         "name": "BankingBot",
         "description": "BankingBot is a Discord bot that utilises economy commands using Prisma.js, and PostgreSQL.",
-        "link": "https://discord.gg/Za5j3xvAzf",
+        "link": "https://discord.com/api/oauth2/authorize?client_id=1002698891537424384&permissions=3072&scope=bot",
         "technologies": [
             "Typescript",
             "Node.js",
